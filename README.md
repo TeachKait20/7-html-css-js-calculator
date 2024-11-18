@@ -228,7 +228,7 @@ function calculate() {
 // Обработчик событий для кнопки
 calculateButton.addEventListener('click', calculate);
 ```
-**1.** `getElementById('...')` - Находит элементы по их id.
+**1.** `getElementById('...')` - Находит элементы по их id. <br><br>
 
 * `number1` и `number2` - Поля ввода для первого и второго числа.
 * `calculateButton` - Кнопка для расчёта.
